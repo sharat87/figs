@@ -170,7 +170,9 @@ Meta
 Author
 ------
 
-Shrikant Sharat (http://sharats.me). @sharat87 on twitter.
+Shrikant Sharat (http://sharats.me). `@sharat87`_ on twitter.
+
+.. _@sharat87: http://twitter.com/sharat87
 
 License
 -------
@@ -180,5 +182,8 @@ MIT License (http://mit.sharats.me).
 Contributing
 ------------
 
-Clone. Modify. Send pull request. If the modification is fairly large, I prefer
-you open a bitbucket issue first to discuss it.
+Code is available at the `bitbucket repository`_. Clone. Modify. Send pull request.
+If the modification is fairly large, I prefer you open a bitbucket issue first
+to discuss it.
+
+.. _bitbucket repository: https://bitbucket.org/sharat87/figs
