@@ -9,7 +9,7 @@ import sys
 from StringIO import StringIO
 from textwrap import dedent
 
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 __author__ = 'Shrikant Sharat'
 
 __all__ = ['dump', 'dumps', 'load', 'loads']
