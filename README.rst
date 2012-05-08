@@ -188,3 +188,9 @@ to discuss it.
 
 .. _github repository: https://github.com/sharat87/figs
 .. _github issue: https://github.com/sharat87/figs/issues
+
+Changelog
+---------
+
+0.1.2
+    Move to github.
