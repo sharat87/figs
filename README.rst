@@ -182,8 +182,9 @@ MIT License (http://mit.sharats.me).
 Contributing
 ------------
 
-Code is available at the `bitbucket repository`_. Clone. Modify. Send pull request.
-If the modification is fairly large, I prefer you open a bitbucket issue first
+Code is available at the `github repository`_. Clone. Modify. Send pull request.
+If the modification is fairly large, I prefer you open a `github issue`_ first
 to discuss it.
 
-.. _bitbucket repository: https://bitbucket.org/sharat87/figs
+.. _github repository: https://github.com/sharat87/figs
+.. _github issue: https://github.com/sharat87/figs/issues
